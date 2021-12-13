@@ -39,6 +39,17 @@ while(dev.isCoding() && dev.isStuck())
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Akshat-Maheshwari&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> &nbsp; &nbsp; &nbsp;
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Maheshwari" /> 
 
+
+## Projects:
+<center>
+  <a href="https://github.com/Akshat-Maheshwari/Daily-Journal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=Daily-Journal&theme=ayu-mirage&layout=compact" />
+  </a>
+  <a href="https://github.com/Akshat-Maheshwari/To-Do-List">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=To-Do-List&theme=ayu-mirage&layout=compact" />
+  </a>
+</center>
+
 ## Languages and Tools:
 
 
