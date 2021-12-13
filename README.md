@@ -36,8 +36,8 @@ while(dev.isCoding() && dev.isStuck())
 
 
 ## 💻Coding Activity
-<img height="225em" src="https://github-readme-stats.vercel.app/api?username=Akshat-Maheshwari&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> &nbsp; &nbsp; &nbsp;
-<img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Maheshwari" /> 
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Akshat-Maheshwari&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> &nbsp; &nbsp; &nbsp;
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Maheshwari" /> 
 
 ## Languages and Tools:
 
