@@ -42,6 +42,12 @@ while(dev.isCoding() && dev.isStuck())
 
 ## Projects:
 <center>
+  <a href="https://github.com/Akshat-Maheshwari/WhatsApp-clone-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=WhatsApp-clone-frontend&theme=ayu-mirage&layout=compact" />
+  </a>
+    <a href="https://github.com/Akshat-Maheshwari/WhatsApp-clone-backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=WhatsApp-clone-backend&theme=ayu-mirage&layout=compact" />
+  </a>
   <a href="https://github.com/Akshat-Maheshwari/Daily-Journal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=Daily-Journal&theme=ayu-mirage&layout=compact" />
   </a>
