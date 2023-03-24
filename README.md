@@ -6,9 +6,8 @@
 
 
 - 🔭 I just completed some projects using MERN and working on a few more.
-- 🌱 I’m currently learning Web3 and CP
+- 🌱 I’m currently exploring ML/DL and Computational Biology
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and Blockchain
 
 ```js
 Developer dev = new Developer(Akshat-Maheshwari);
