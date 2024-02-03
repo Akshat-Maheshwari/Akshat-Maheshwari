@@ -41,18 +41,18 @@ while(dev.isCoding() && dev.isStuck())
 
 ## Projects:
 <center>
+  <a href="https://github.com/Akshat-Maheshwari/Tequila-Triceps-Podcast">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=Tequila-Triceps-Podcast&theme=ayu-mirage&layout=compact" />
+  </a>
+  <a href="https://github.com/Akshat-Maheshwari/Restaurant-NPC-AI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=Restaurant-NPC-AI&theme=ayu-mirage&layout=compact" />
+  </a>
+  </a>
+    <a href="https://github.com/Akshat-Maheshwari/kanban-board">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=kanban-board&theme=ayu-mirage&layout=compact" />
+  </a>
   <a href="https://github.com/Akshat-Maheshwari/WhatsApp-clone-frontend">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=WhatsApp-clone-frontend&theme=ayu-mirage&layout=compact" />
-  </a>
-    <a href="https://github.com/Akshat-Maheshwari/WhatsApp-clone-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=WhatsApp-clone-backend&theme=ayu-mirage&layout=compact" />
-  </a>
-  <a href="https://github.com/Akshat-Maheshwari/Daily-Journal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=Daily-Journal&theme=ayu-mirage&layout=compact" />
-  </a>
-  <a href="https://github.com/Akshat-Maheshwari/To-Do-List">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Maheshwari&repo=To-Do-List&theme=ayu-mirage&layout=compact" />
-  </a>
 </center>
 
 ## Languages and Tools:
